@@ -1,0 +1,9 @@
+## Interface: 20501
+## Title: CCWatcher
+## Notes: CC Watcher for TBC Classic
+## Author: NaliLord
+## Version: 1.0.1
+## X-Category: Interface Enhancements
+## SavedVariables: CCWatcherSettings
+
+CCWatcher.lua
